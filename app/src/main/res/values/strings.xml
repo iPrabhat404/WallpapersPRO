@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Wallpapers PRO</string>
+    <string name="latest_tab">Latest</string>
+    <string name="favorites_tab">Favorites</string>
+    <string name="nature_tab">Nature</string>
+    <string name="amoled_tab">Amoled</string>
+    <string name="latest">Latest</string>
+    <string name="categories">Categories</string>
+</resources>
